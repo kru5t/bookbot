@@ -1,3 +1,3 @@
-# Bookbot Project
+# bookbot
 
-Hello there!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
